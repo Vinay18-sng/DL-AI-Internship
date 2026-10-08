@@ -204,7 +204,7 @@ pip install tensorflow numpy matplotlib
 
 ### Step 2 – Open the Notebook
 
-Open **`week 2.ipynb`** using Jupyter Notebook or JupyterLab.
+Open **`week 1.ipynb`** using Jupyter Notebook or JupyterLab.
 
 ### Step 3 – Run the Cells
 
